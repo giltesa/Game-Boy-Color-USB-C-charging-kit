@@ -2,7 +2,7 @@
 
 This project contains the files for making an electronic board that allows to charge a Nintendo Game Boy Color by USB-C.
 
-![Game Boy Color USB-C charging kit](https://raw.githubusercontent.com/giltesa/ESP8266_WOL/master/banner.png)
+![Game Boy Color USB-C charging kit](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-charging-kit/master/banner.png)
 
 
 You can get more information here:
