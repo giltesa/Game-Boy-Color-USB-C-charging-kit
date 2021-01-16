@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="100" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -22802,10 +22802,10 @@ Attribution-Noncommercial-Share Alike 2.5 Switzerland License.  To view a copy o
 <part name="GND-BAT" library="SparkFun-PowerSymbols" deviceset="GND-ISO" device="" value="GND-BAT"/>
 <part name="C2" library=",giltesa" deviceset="C0603" device="" value="100nF"/>
 <part name="IC2" library="SparkFun" deviceset="FS8205A" device="" value="8205A"/>
-<part name="R5" library=",giltesa" deviceset="R0402" device="" value="100"/>
+<part name="R5" library=",giltesa" deviceset="R0402" device="" value="100R"/>
 <part name="R6" library=",giltesa" deviceset="R0402" device="" value="1k"/>
-<part name="R7" library=",giltesa" deviceset="R0402" device="" value="330"/>
-<part name="R8" library=",giltesa" deviceset="R0402" device="" value="330"/>
+<part name="R7" library=",giltesa" deviceset="R0402" device="" value="330R"/>
+<part name="R8" library=",giltesa" deviceset="R0402" device="" value="330R"/>
 <part name="GND12" library="SparkFun" deviceset="GND" device=""/>
 <part name="GND-ISO3" library="SparkFun-PowerSymbols" deviceset="GND-ISO" device="" value="GND-BAT"/>
 <part name="R4" library=",giltesa" deviceset="R0402" device="" value="5.1k"/>
@@ -22815,7 +22815,7 @@ Attribution-Noncommercial-Share Alike 2.5 Switzerland License.  To view a copy o
 <part name="FRAME2" library="frames" deviceset="DINA4_L" device=""/>
 <part name="GND9" library="SparkFun" deviceset="GND" device=""/>
 <part name="JP1" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_3_NO" device="_SILK" value="JUMPER"/>
-<part name="R9" library=",giltesa" deviceset="R0402" device="" value="330"/>
+<part name="R9" library=",giltesa" deviceset="R0402" device="" value="330R"/>
 <part name="J4" library=",giltesa" deviceset="1X03" device="2" value="GBC LED"/>
 <part name="J5" library=",giltesa" deviceset="GBC_LED" device="" value="GBC LED-E"/>
 <part name="U$5" library="paste_injector" deviceset="NC" device=""/>
