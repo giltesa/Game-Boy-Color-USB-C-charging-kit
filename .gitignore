@@ -1,7 +1,7 @@
 # Excluding these directories and files.
 *NoGit*
-eagle.epf
 GoogleSketchUp
-gerbers
+*.epf
 *.s#*
 *.b#*
+*.skb

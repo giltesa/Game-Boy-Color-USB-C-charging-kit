@@ -19,4 +19,7 @@ Youtube Video:
 
 ## License
 
-This project is licensed under the license **Creative Commons** of type: **[Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ](https://creativecommons.org/licenses/by-nc-sa/4.0/)**. Check the file [LICENSE.md](LICENSE.md) for more information.
+This project is licensed under a **Creative Commons** license:
+**[Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ](https://creativecommons.org/licenses/by-nc-sa/4.0/)**
+
+Check the [LICENSE.md](LICENSE.md) for more information.
