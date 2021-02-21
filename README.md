@@ -17,6 +17,11 @@ Youtube Video:
 [![Game Boy Color USB-C charging kit](https://img.youtube.com/vi/vwyqkQ_spI8/0.jpg)](https://www.youtube.com/watch?v=vwyqkQ_spI8)
 
 
+Making the second pack of board by hand:
+
+[![Making 20 Game Boy Color USB-C charging kit boards](https://img.youtube.com/vi/QD3lMJURSQE/0.jpg)](https://www.youtube.com/watch?v=QD3lMJURSQE)
+
+
 ## License
 
 This project is licensed under a **Creative Commons** license:
