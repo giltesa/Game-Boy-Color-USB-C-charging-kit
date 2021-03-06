@@ -22,6 +22,11 @@ Making the second pack of board by hand:
 [![Making 20 Game Boy Color USB-C charging kit boards](https://img.youtube.com/vi/QD3lMJURSQE/0.jpg)](https://www.youtube.com/watch?v=QD3lMJURSQE)
 
 
+Battery test: 1500 mAh = 8h 40m
+
+[![Game Boy Color USB-C Charging Kit - Battery test: 1500 mAh = 8h 40m](https://img.youtube.com/vi/jIQpzhPCvvI/0.jpg)](https://www.youtube.com/watch?v=jIQpzhPCvvI)
+
+
 ## License
 
 This project is licensed under a **Creative Commons** license:
