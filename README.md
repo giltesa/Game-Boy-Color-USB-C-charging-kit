@@ -30,7 +30,7 @@ Battery test: 1500 mAh = 8h 40m
 [![Game Boy Color USB-C Charging Kit - Battery test: 1500 mAh = 8h 40m](https://img.youtube.com/vi/jIQpzhPCvvI/0.jpg)](https://www.youtube.com/watch?v=jIQpzhPCvvI)
 
 
-Making the second pack of board by hand:
+Making the second pack of boards by hand:
 
 [![Making 20 Game Boy Color USB-C charging kit boards](https://img.youtube.com/vi/QD3lMJURSQE/0.jpg)](https://www.youtube.com/watch?v=QD3lMJURSQE)
 
@@ -38,7 +38,7 @@ Making the second pack of board by hand:
 
 ## Buying it
 
-I should receive the third revision of this board soon. If you are interested on it, let me know by [contact form](https://giltesa.com/en/contact "contact form").
+I should receive the third revision of this board soon. If you are interested in it, let me know by [contact form](https://giltesa.com/en/contact "contact form").
 
 ![Game Boy Color USB-C Charging Kit v1.3](https://giltesa.com/wp-content/uploads/2020/12/v1.3-Top.jpg)
 
