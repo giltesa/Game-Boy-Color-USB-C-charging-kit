@@ -15,7 +15,7 @@ And this one is the LED board:
 ![Game Boy Color USB-C Charging Kit](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-charging-kit/master/3.%20Documentation/Check%20if%20white%20%20LED%20works%20well/IMG_20210219_231131.jpg)
 
 
-
+[========]
 ## Youtube:
 
 A small demostration about how this works:
@@ -35,15 +35,15 @@ Making the second pack of boards by hand:
 [![Making 20 Game Boy Color USB-C charging kit boards](https://img.youtube.com/vi/QD3lMJURSQE/0.jpg)](https://www.youtube.com/watch?v=QD3lMJURSQE)
 
 
-
+[========]
 ## Buying it
 
-I should receive the third revision of this board soon. If you are interested in it, let me know by [contact form](https://giltesa.com/en/contact "contact form").
+I should receive the third revision of this board soon. If you are interested in it, let me know by my [contact form](https://giltesa.com/en/contact "contact form").
 
 ![Game Boy Color USB-C Charging Kit v1.3](https://giltesa.com/wp-content/uploads/2020/12/v1.3-Top.jpg)
 
 
-
+[========]
 ## You can get more information on my website:
 
 [**Game Boy Color USB-C charging kit (EN)**](https://giltesa.com/en/2020/12/17/game-boy-color-usb-c-charging-kit).
@@ -52,6 +52,7 @@ I should receive the third revision of this board soon. If you are interested in
 
 
 
+[========]
 ## License
 
 This project is licensed under a **Creative Commons** license:
