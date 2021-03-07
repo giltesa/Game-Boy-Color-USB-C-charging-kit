@@ -40,7 +40,7 @@ Making the second pack of boards by hand:
 
 I should receive the third revision of this board soon. If you are interested in it, let me know by my [contact form](https://giltesa.com/en/contact "contact form").
 
-![Game Boy Color USB-C Charging Kit v1.3](https://giltesa.com/wp-content/uploads/2020/12/v1.3-Top.jpg)
+![Game Boy Color USB-C Charging Kit v1.3](https://giltesa.com/wp-content/uploads/2020/12/v1.3-Top.jpg?v=1.3)
 
 
 
