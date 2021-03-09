@@ -1,4 +1,4 @@
-# Game Boy Color USB-C charging kit
+# Game Boy Color USB-C Charging Kit
 
 The **Game Boy Color USB-C Charging Kit** is a circuit that allows you to charge a **Nintendo Game Boy Color** by **USB-C** and use a **Li-ion** battery instead of AA batteries.
 
