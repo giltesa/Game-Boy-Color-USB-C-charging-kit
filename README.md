@@ -38,7 +38,7 @@ Making the second pack of boards by hand:
 
 ## Buying it
 
-I should receive the third revision of this board soon. If you are interested in it, let me know by my [contact form](https://giltesa.com/en/contact "contact form").
+I should receive the third revision of this board soon. If you are interested in it, let me know by [Google Form](https://forms.gle/pyJDCnAXAc1mdGSo6).
 
 *(Boards will be black color)*
 
