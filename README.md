@@ -16,7 +16,7 @@ And this one is the LED board:
 
 
 
-## Youtube:
+## Youtube
 
 A small demostration about how this works:
 
@@ -42,7 +42,7 @@ It sold out. I don't know if I will make more.
 
 
 
-## You can get more information on my website:
+## You can get more information on my website
 
 [**Game Boy Color USB-C charging kit (EN)**](https://giltesa.com/en/2020/12/17/game-boy-color-usb-c-charging-kit).
 
