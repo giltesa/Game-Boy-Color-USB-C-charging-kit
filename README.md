@@ -38,11 +38,7 @@ Making the second pack of boards by hand:
 
 ## Buying it
 
-I should receive the third revision of this board soon. If you are interested in it, let me know by [Google Form](https://forms.gle/pyJDCnAXAc1mdGSo6).
-
-*(Boards will be black color)*
-
-![Game Boy Color USB-C Charging Kit v1.3](https://giltesa.com/wp-content/uploads/2020/12/v1.3-Top.jpg?v=1.3)
+It sold out. I don't know if I will make more.
 
 
 
