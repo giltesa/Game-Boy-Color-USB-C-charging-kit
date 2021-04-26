@@ -42,7 +42,7 @@ If you are interested in it, let me know here [nintendo-usb-c-charging-kit](http
 
 *(Boards will be black color)*
 
-![Game Boy Color USB-C Charging Kit v1.3](https://giltesa.com/wp-content/uploads/2020/12/v1.3-Top.jpg?v=1.3)
+![Game Boy Color USB-C Charging Kit v1.3](https://giltesa.com/wp-content/uploads/2021/04/GBC-USB-C-Charging-Kit-v1.5-Top.jpg)
 
 
 
