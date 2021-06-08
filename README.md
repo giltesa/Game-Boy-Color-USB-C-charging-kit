@@ -8,11 +8,11 @@ This kit includes two boards. If you want to install it easy, it's enough with t
 
 This is the maind board:
 
-![Game Boy Color USB-C Charging Kit](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-charging-kit/master/banner.png)
+![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-charging-kit/master/5.%20Photos/P1170518.jpg)
 
 And this one is the LED board:
 
-![Game Boy Color USB-C Charging Kit](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-charging-kit/master/3.%20Documentation/Check%20if%20white%20%20LED%20works%20well/IMG_20210219_231131.jpg)
+![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-charging-kit/master/5.%20Photos/IMG_20201130_212004.jpg)
 
 
 
@@ -48,9 +48,7 @@ If you are interested in it, let me know here [nintendo-usb-c-charging-kit](http
 
 ## You can get more information on my website:
 
-[**Game Boy Color USB-C charging kit (EN)**](https://giltesa.com/en/2020/12/17/game-boy-color-usb-c-charging-kit).
-
-[**Kit de carga USB-C para Game Boy Color (ES)**](https://giltesa.com/2020/12/17/kit-de-carga-usb-c-para-game-boy-color).
+[**Game Boy Color USB-C charging kit (EN)**](https://giltesa.com/en/nintendo-usb-c-charging-kit).
 
 
 
