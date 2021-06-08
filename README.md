@@ -36,16 +36,6 @@ Making the second pack of boards by hand:
 
 
 
-## Buying it
-
-If you are interested in it, let me know here [nintendo-usb-c-charging-kit](https://giltesa.com/en/nintendo-usb-c-charging-kit).
-
-*(Boards will be black color)*
-
-![Game Boy Color USB-C Charging Kit v1.3](https://giltesa.com/wp-content/uploads/2021/04/GBC-USB-C-Charging-Kit-v1.5-Top.jpg)
-
-
-
 ## You can get more information on my website:
 
 [**Game Boy Color USB-C charging kit (EN)**](https://giltesa.com/en/nintendo-usb-c-charging-kit).
