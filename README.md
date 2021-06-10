@@ -18,21 +18,21 @@ And this one is the LED board:
 
 ## Youtube:
 
+Game Boy Color USB-C Charging Kit (Installation)
+
+[![GBC](https://img.youtube.com/vi/6jVHuUIQE74/0.jpg)](https://www.youtube.com/watch?v=6jVHuUIQE74)
+
+
 A small demostration about how this works:
 
 *(red light = charging, green light = finish to charge, white = GBC is power on)*
 
-[![Game Boy Color USB-C charging kit](https://img.youtube.com/vi/vwyqkQ_spI8/0.jpg)](https://www.youtube.com/watch?v=vwyqkQ_spI8)
+[![GBC](https://img.youtube.com/vi/vwyqkQ_spI8/0.jpg)](https://www.youtube.com/watch?v=vwyqkQ_spI8)
 
 
 Battery test: 1500 mAh = 8h 40m
 
-[![Game Boy Color USB-C Charging Kit - Battery test: 1500 mAh = 8h 40m](https://img.youtube.com/vi/jIQpzhPCvvI/0.jpg)](https://www.youtube.com/watch?v=jIQpzhPCvvI)
-
-
-Making the second pack of boards by hand:
-
-[![Making 20 Game Boy Color USB-C charging kit boards](https://img.youtube.com/vi/QD3lMJURSQE/0.jpg)](https://www.youtube.com/watch?v=QD3lMJURSQE)
+[![GBC](https://img.youtube.com/vi/jIQpzhPCvvI/0.jpg)](https://www.youtube.com/watch?v=jIQpzhPCvvI)
 
 
 
