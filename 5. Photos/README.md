@@ -1,5 +1,6 @@
 ![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-charging-kit/master/5.%20Photos/GBC_USB-C_Render_Top.jpg)
 ![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-charging-kit/master/5.%20Photos/GBC_USB-C_Rende_Bottom.jpg)
+![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-charging-kit/master/5.%20Photos/IMG_20210616_164651.jpg)
 ![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-charging-kit/master/5.%20Photos/IMG_20201130_212004.jpg)
 ![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-charging-kit/master/5.%20Photos/IMG_20210502_182507.jpg)
 ![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-charging-kit/master/5.%20Photos/IMG_20210502_202143.jpg)
