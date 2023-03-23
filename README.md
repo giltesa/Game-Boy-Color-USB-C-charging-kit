@@ -8,11 +8,11 @@ This kit includes two boards. If you want to install it easy, it's enough with t
 
 This is the maind board:
 
-![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-charging-kit/master/5.%20Photos/P1170518.jpg)
+![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-charging-kit/master/4.%20Photos/P1170518.jpg)
 
 And this one is the LED board:
 
-![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-charging-kit/master/5.%20Photos/IMG_20201130_212004.jpg)
+![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-charging-kit/master/4.%20Photos/IMG_20201130_212004.jpg)
 
 
 
