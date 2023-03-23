@@ -36,9 +36,16 @@ Battery test: 1500 mAh = 8h 40m
 
 
 
-## You can get more information on my website:
+## Would you like it?
 
-[**Game Boy Color USB-C charging kit (EN)**](https://shop.giltesa.com/product/game-boy-color-usb-c-charging-kit/)
+https://shop.giltesa.com/product/game-boy-color-usb-c-charging-kit/
+
+
+
+## More
+
+- [giltesa.com](https://giltesa.com "giltesa.com")
+- [twitter.com](https://twitter.com/giltesa/status/1503669454852481024 "twitter.com")
 
 
 
